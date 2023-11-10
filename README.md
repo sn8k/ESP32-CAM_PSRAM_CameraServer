@@ -21,7 +21,7 @@ Known bug :
   I'm no dev, so there are bugs :D
 
   pinouts used : 
-#define PWDN_GPIO_NUM     -1
+[#define PWDN_GPIO_NUM     -1
 #define RESET_GPIO_NUM    15
 #define XCLK_GPIO_NUM     27
 #define SIOD_GPIO_NUM     25
@@ -39,3 +39,5 @@ Known bug :
 #define HREF_GPIO_NUM     26
 #define PCLK_GPIO_NUM     21
 #define LED_GPIO_NUM     25
+]
+[
